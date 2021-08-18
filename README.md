@@ -14,3 +14,6 @@
 
 - Counting Sort: https://blog.naver.com/hunii123/222326693534 (네이버블로그 은이님)
   - [문제 10989](10989.md).
+- Dynamic Programming: https://www.youtube.com/watch?v=oBt53YbR9Kk (유튜버 freeCodeCamp.org)
+  - memoization
+    - [문제 1003](1003.md).
