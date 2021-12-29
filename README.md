@@ -2,6 +2,9 @@
 
 이 Repository는 『프로그래밍 대회에서 배우는 알고리즘 문제해결 전략』 을 읽어가며 baekjoon 사이트의 문제들을 푼 뒤, Self-Feedback을 위해 만들어졌습니다.
 
+부족하지만 제 코드를 참고하고 싶으시다면 아래와 같습니다.
+`https://www.acmicpc.net/user/tank3a`
+
 ## 문제를 푸는 과정
 
 1. 문제를 꼼꼼히 이해하기
@@ -17,3 +20,5 @@
 - Dynamic Programming: https://www.youtube.com/watch?v=oBt53YbR9Kk (유튜버 freeCodeCamp.org)
   - memoization
     - [문제 1003](1003.md).
+  - tabulation
+    - [문제 1904](1904.md).
